@@ -1,5 +1,6 @@
 # JavaScript-Basic
 
+[Curso Básico de JavaScript](https://platzi.com/cursos/basico-javascript/)
 
 ##¿Que tipos por default son verdaderos y falsos?
 
