@@ -1,10 +1,11 @@
 # JavaScript-Basic
 
+
 ##¿Que tipos por default son verdaderos y falsos?
 
 Usamos la función de JS que es Boolean() dentro del paréntesis ponemos el valor y nos dice si el mismo el False o True.
 
-###–> Falsy
+### –> Falsy
 
 - Boolean() —> sin ningun valor es false
 - Boolean(0) —> **FALSE**
@@ -14,7 +15,7 @@ Usamos la función de JS que es Boolean() dentro del paréntesis ponemos el valo
 - Boolean(false) —> **FALSE**
 - Boolean("") —> **FALSE**
 
-###-> Truthy
+### -> Truthy
 - Boolean(1) —> **TRUE** //cualquier numero que no sea igual a cero es true
 - Boolean(“a”) —> **TRUE**
 - Boolean(" ") —> **TRUE** // siendo un espacio el valor es true
