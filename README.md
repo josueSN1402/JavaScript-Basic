@@ -71,9 +71,15 @@ Todo esto lo vamos a usar en condiciones esto valida si es verdadero o falso par
 
 ### LOGICOS A NIVEL DE BITS
 << // Desplazamiento a la izquierda  a << b
+
 **>>** // Desplazamiento a la derecha  a >> b
+
 **>>>** // Desplazamiento a la derecha sin signo  a >>> b
+
 & // AND  a & b
+
 ^ // XOR  a ^ b
+
 | // OR  a | b
+
 ~ // NOT  a | b```
