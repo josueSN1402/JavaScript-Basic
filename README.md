@@ -30,13 +30,20 @@ Todo esto lo vamos a usar en condiciones esto valida si es verdadero o falso par
 ## OPERADORES
 
 ### ARITMETICOS
-+ // Suma a + b,  afirmación unitaria +a : Positivo, concatenación "a" + "la" : "ala"
-- // Resta a - b, negación unitaria -a : Negativo
-* // Producto a * b
+**+** // Suma a + b,  afirmación unitaria +a : Positivo, concatenación "a" + "la" : "ala"
+
+**-** // Resta a - b, negación unitaria -a : Negativo
+
+***** // Producto a * b
+
 / // Divisor a / b
+
 % // Residuo a % b
+
 ** // Potencia a ** b, a elevado a b
+
 ++ // Incremento (suma uno) a++ : a = a + 1
+
 -- // Decremento (resta uno) a-- : a = a - 1
 
 ### ASIGNACIÓN
@@ -56,9 +63,9 @@ Todo esto lo vamos a usar en condiciones esto valida si es verdadero o falso par
 
 <<= // Asignación de desplazamiento a la izquierda  a <<= b : a = a << b
 
->>= // Asignación de desplazamiento a la derecha  a >>= b : a = a >> b
+**>>=** // Asignación de desplazamiento a la derecha  a >>= b : a = a >> b
 
->>>= // Asignación sin signo de desplazamiento a la derecha  a >>>= b : a = a >>> b
+**>>>=** // Asignación sin signo de desplazamiento a la derecha  a >>>= b : a = a >>> b
 
 &= // Asignación AND  a &= b : a = a & b
 
