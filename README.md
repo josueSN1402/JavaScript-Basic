@@ -2,7 +2,7 @@
 
 [Curso Básico de JavaScript](https://platzi.com/cursos/basico-javascript/)
 
-##¿Que tipos por default son verdaderos y falsos?
+## ¿Que tipos por default son verdaderos y falsos?
 
 Usamos la función de JS que es Boolean() dentro del paréntesis ponemos el valor y nos dice si el mismo el False o True.
 
