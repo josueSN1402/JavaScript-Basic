@@ -34,7 +34,7 @@ Todo esto lo vamos a usar en condiciones esto valida si es verdadero o falso par
 
 **-** // Resta a - b, negación unitaria -a : Negativo
 
-***** // Producto a * b
+* // Producto a * b
 
 / // Divisor a / b
 
